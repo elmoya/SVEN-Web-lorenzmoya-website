@@ -1,5 +1,7 @@
 # SVEN - Pet Booking Website
 
+![Alt text](./public/assets/website.png)
+
 ## Prerequisites
 
 - [Docker](https://docs.docker.com/engine/release-notes/27) (engine version 27.2.0 or higher)
